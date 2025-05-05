@@ -1,0 +1,19 @@
+{
+  "name": "AMADARbot7",
+  "version": "1.0.0",
+  "description": "بوت واتساب مبني على GataBot-MD",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "keywords": [],
+  "author": "AMADAR",
+  "license": "MIT",
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.5.0",
+    "axios": "^1.6.8",
+    "chalk": "^5.3.0",
+    "moment-timezone": "^0.5.43",
+    "node-fetch": "^3.3.2"
+  }
+}
